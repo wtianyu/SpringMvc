@@ -385,7 +385,3 @@ Paste_Image.png
 ${contextPath} 可以取到Controller传过来的contextPath值。
 
 成功了！
-
-文／剽悍一小兔（简书作者）
-原文链接：http://www.jianshu.com/p/0ccaa4af05fc
-著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。
